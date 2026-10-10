@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/agronholm/typeguard/commit/cb8cee7a17af49498ad2465bbbdf8bfa8bf41a53",
       "git:hexsha": "cb8cee7a17af49498ad2465bbbdf8bfa8bf41a53",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T22:16:02.587922+00:00"
     },
     {
       "@id": "https://repolex.ai/r/agronholm/typeguard/commit/a570ce32e50977fd974a4caf8b1e01c1e86f954a",
