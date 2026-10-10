@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/typeguard/commit/cb8cee7a17af49498ad2465bbbdf8bfa8bf41a53",
       "git:hexsha": "cb8cee7a17af49498ad2465bbbdf8bfa8bf41a53",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/agronholm/typeguard/commit/a570ce32e50977fd974a4caf8b1e01c1e86f954a",
